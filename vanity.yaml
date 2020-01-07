@@ -3,6 +3,10 @@ host: kubepack.dev
 paths:
   /chartify:
     repo: https://github.com/kubepack/chartify
+  /kubepack:
+    repo: https://github.com/kubepack/kubepack
+  /installer:
+    repo: https://github.com/kubepack/installer
   /onessl:
     repo: https://github.com/kubepack/onessl
   /swift:
