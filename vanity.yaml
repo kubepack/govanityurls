@@ -7,8 +7,8 @@ paths:
     repo: https://github.com/kubepack/kubepack
   /installer:
     repo: https://github.com/kubepack/installer
-  /lib-chart:
-    repo: https://github.com/kubepack/lib-chart
+  /lib-helm:
+    repo: https://github.com/kubepack/lib-helm
   /onessl:
     repo: https://github.com/kubepack/onessl
   /swift:
