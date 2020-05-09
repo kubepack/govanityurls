@@ -1,6 +1,8 @@
 host: kubepack.dev
 
 paths:
+  /chart-doc-gen:
+    repo: https://github.com/kubepack/chart-doc-gen
   /chartify:
     repo: https://github.com/kubepack/chartify
   /kubepack:
