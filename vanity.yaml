@@ -19,3 +19,7 @@ paths:
     repo: https://github.com/kubepack/onessl
   /swift:
     repo: https://github.com/kubepack/swift
+  /flow-api:
+    repo: https://github.com/kubepack/flow-api
+  /flow-controller:
+    repo: https://github.com/kubepack/flow-controller
