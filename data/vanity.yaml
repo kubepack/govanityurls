@@ -1,7 +1,25 @@
-# Example vanity.yaml
-
-host: gomodules.xyz
+host: kubepack.dev
 
 paths:
-  /sync:
-    repo: https://github.com/gomodules/sync
+  /chart-doc-gen:
+    repo: https://github.com/kubepack/chart-doc-gen
+  /chartify:
+    repo: https://github.com/kubepack/chartify
+  /cli:
+    repo: https://github.com/kubepack/cli
+  /kubepack:
+    repo: https://github.com/kubepack/kubepack
+  /installer:
+    repo: https://github.com/kubepack/installer
+  /lib-app:
+    repo: https://github.com/kubepack/lib-app
+  /lib-helm:
+    repo: https://github.com/kubepack/lib-helm
+  /onessl:
+    repo: https://github.com/kubepack/onessl
+  /swift:
+    repo: https://github.com/kubepack/swift
+  /module:
+    repo: https://github.com/kubepack/module
+  /module-testdata:
+    repo: https://github.com/kubepack/module-testdata
