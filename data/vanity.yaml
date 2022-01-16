@@ -23,3 +23,5 @@ paths:
     repo: https://github.com/kubepack/module
   /module-testdata:
     repo: https://github.com/kubepack/module-testdata
+  /preset:
+    repo: https://github.com/kubepack/preset
