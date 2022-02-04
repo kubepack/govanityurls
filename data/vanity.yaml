@@ -13,6 +13,8 @@ paths:
     repo: https://github.com/kubepack/installer
   /lib-app:
     repo: https://github.com/kubepack/lib-app
+  /app-server:
+    repo: https://github.com/kubepack/app-server
   /lib-helm:
     repo: https://github.com/kubepack/lib-helm
   /onessl:
